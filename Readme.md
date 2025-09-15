@@ -6,8 +6,6 @@
 
 ## Table of contents
 
-- Sugandh gupta
-
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
